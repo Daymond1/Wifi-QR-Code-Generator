@@ -11,7 +11,7 @@ WiFi QR Code Generator is a user-friendly Windows application that allows users 
 - **MSI Installer:** Easy installation with a generated MSI installer for hassle-free setup.
 
 ## Installation
-1. Download the latest release from the [Releases](https://github.com/yourusername/WifiQRCodeGenerator/releases) section.
+1. Download the latest release from the [Releases](https://github.com/Daymond1/Wifi-QR-Code-Generator/releases) section.
 2. Run the MSI installer and follow the on-screen instructions.
 3. Launch the application.
 
