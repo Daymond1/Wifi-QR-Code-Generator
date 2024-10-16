@@ -19,7 +19,7 @@ WiFi QR Code Generator is a user-friendly Windows application that allows users 
 Contributions are welcome! Please feel free to open issues or submit pull requests for enhancements or bug fixes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Daymond1/Wifi-QR-Code-Generator/edit/master/License.txt) file for details.
 
 ## Support
 If you encounter any issues or have questions, please open an issue in the repository or contact me directly.
